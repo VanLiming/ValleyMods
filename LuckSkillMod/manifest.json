@@ -1,0 +1,10 @@
+{
+  "Name": "Luck Skill",
+  "Author": "VanLiming",
+  "Version": "1.0.0",
+  "Description": "Add a new Luck skill to Stardew Valley that increases your chances of finding valuable items and getting better results in various activities.",
+  "UniqueID": "VanLiming.LuckSkill",
+  "EntryDll": "LuckSkillMod.dll",
+  "MinimumApiVersion": "3.13.0",
+  "UpdateKeys": []
+}
